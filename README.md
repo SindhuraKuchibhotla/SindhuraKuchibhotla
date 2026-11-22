@@ -14,4 +14,4 @@ MS Electrical Engineering student at **San José State University** (graduating 
 
 `SystemVerilog` `Vitis HLS` `Vivado` `Zynq-7000` `AXI / DMA` `C/C++` `ARM NEON` `STM32` `Zephyr` `Python` `PyTorch` `INT8/INT16 quantization`
 
-[LinkedIn](https://www.linkedin.com/in/sindhura-kuchibhotla-7855b9aa)
+[Portfolio](https://sindhurakuchibhotla.github.io) · [LinkedIn](https://www.linkedin.com/in/sindhura-kuchibhotla-7855b9aa)
